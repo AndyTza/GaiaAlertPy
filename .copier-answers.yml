@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier
+_commit: v2.0.1
+_src_path: gh:lincc-frameworks/python-project-template
+author_email: atzanida@uw.edu
+author_name: Andy Tzanidakis
+custom_install: false
+package_name: gaiaalertpy
+project_license: MIT
+project_name: gaia_alerts_py
+project_organization: AndyTza
